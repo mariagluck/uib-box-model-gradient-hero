@@ -1,4 +1,4 @@
-# Gradients
+# Gradient Hero
 
 Let's recreate the following effect with CSS gradients.
 
